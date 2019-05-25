@@ -1,4 +1,4 @@
-package pe.com.encuesta.model;
+package pe.com.encuesta.dto;
 
 public class RespuestaApi {
 

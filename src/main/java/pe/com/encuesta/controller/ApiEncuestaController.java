@@ -17,9 +17,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import pe.com.encuesta.dto.RespuestaApi;
 import pe.com.encuesta.exception.ModeloNotFoundException;
 import pe.com.encuesta.model.Encuesta;
-import pe.com.encuesta.model.RespuestaApi;
 import pe.com.encuesta.service.IEncuestaService;
 
 @RestController

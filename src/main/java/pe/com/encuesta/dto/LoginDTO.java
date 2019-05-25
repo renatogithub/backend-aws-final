@@ -1,6 +1,6 @@
-package pe.com.encuesta.model;
+package pe.com.encuesta.dto;
 
-public class Login {
+public class LoginDTO {
 
 	private String username;
 
